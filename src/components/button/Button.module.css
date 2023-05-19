@@ -1,0 +1,31 @@
+.button {
+     width: 120px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    background-color: rgb(206, 85, 64);
+    font-size: 2rem;
+    color: #fff;
+     font-family: Orbitron, serif;
+}
+
+.black {
+    background-color: rgb(45, 52, 54);
+
+}
+
+.white {
+    background-color: #fff;
+    color: #333;
+}
+
+.zero {
+    width: 250px;;
+}
+
+.button:hover {
+        border: 3px solid #cacaca;
+}
